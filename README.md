@@ -9,7 +9,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=F8C52C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c&logoColor=E5D3FF)
+![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=E5D3FF)
 
 
 
